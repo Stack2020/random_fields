@@ -1,0 +1,8 @@
+# Tested with Python 3.10, CUDA 12.4
+torch==2.5.1
+numpy
+scipy
+matplotlib
+h5py
+# Only needed to regenerate the wind dataset (gen_wind_both.py):
+# UQpy
